@@ -326,7 +326,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.BuscaCEP:alpha
+     * @attr name BuscaCEP:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**

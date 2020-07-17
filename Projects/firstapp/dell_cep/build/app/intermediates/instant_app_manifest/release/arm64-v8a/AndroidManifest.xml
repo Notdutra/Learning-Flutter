@@ -21,9 +21,9 @@
         android:name="io.flutter.app.FlutterApplication"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:icon="@mipmap/ic_launcher"
-        android:label="com.BuscaCEP" >
+        android:label="BuscaCEP" >
         <activity
-            android:name="com.BuscaCEP.MainActivity"
+            android:name="BuscaCEP.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:hardwareAccelerated="true"
             android:launchMode="singleTop"

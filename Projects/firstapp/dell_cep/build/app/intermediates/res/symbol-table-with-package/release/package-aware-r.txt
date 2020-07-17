@@ -1,4 +1,4 @@
-com.BuscaCEP
+BuscaCEP
 attr alpha
 attr font
 attr fontProviderAuthority

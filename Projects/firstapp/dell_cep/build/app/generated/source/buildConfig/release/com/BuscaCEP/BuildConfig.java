@@ -5,7 +5,7 @@ package com.BuscaCEP;
 
 public final class BuildConfig {
   public static final boolean DEBUG = false;
-  public static final String APPLICATION_ID = "com.BuscaCEP";
+  public static final String APPLICATION_ID = "BuscaCEP";
   public static final String BUILD_TYPE = "release";
   public static final String FLAVOR = "";
   public static final int VERSION_CODE = 1;
