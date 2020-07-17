@@ -1,4 +1,4 @@
-package com.Busca.CEP
+package com.BuscaCEP
 
 import io.flutter.embedding.android.FlutterActivity
 

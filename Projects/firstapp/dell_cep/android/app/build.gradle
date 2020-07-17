@@ -34,7 +34,7 @@ apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
    android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "Busca.CEP"
+        applicationId "com.BuscaCEP"
     }
 
     sourceSets {
@@ -47,7 +47,7 @@ apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "Busca.CEP"
+        applicationId "com.BuscaCEP"
         minSdkVersion 16
         targetSdkVersion 28
         versionCode 3

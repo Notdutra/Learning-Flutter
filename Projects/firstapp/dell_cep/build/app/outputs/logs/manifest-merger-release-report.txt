@@ -22,7 +22,7 @@ INJECTED from C:\Users\arthu\Desktop\Dell\Treinamento\Learning-Flutter\Projects\
 INJECTED from C:\Users\arthu\Desktop\Dell\Treinamento\Learning-Flutter\Projects\firstapp\dell_cep\android\app\src\main\AndroidManifest.xml:1:1-49:12
 INJECTED from C:\Users\arthu\Desktop\Dell\Treinamento\Learning-Flutter\Projects\firstapp\dell_cep\android\app\src\main\AndroidManifest.xml:1:1-49:12
 	package
-		ADDED from C:\Users\arthu\Desktop\Dell\Treinamento\Learning-Flutter\Projects\firstapp\dell_cep\android\app\src\main\AndroidManifest.xml:2:5-28
+		ADDED from C:\Users\arthu\Desktop\Dell\Treinamento\Learning-Flutter\Projects\firstapp\dell_cep\android\app\src\main\AndroidManifest.xml:2:5-27
 		INJECTED from C:\Users\arthu\Desktop\Dell\Treinamento\Learning-Flutter\Projects\firstapp\dell_cep\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\arthu\Desktop\Dell\Treinamento\Learning-Flutter\Projects\firstapp\dell_cep\android\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -55,7 +55,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ar
 		ADDED from C:\Users\arthu\Desktop\Dell\Treinamento\Learning-Flutter\Projects\firstapp\dell_cep\android\app\src\main\AndroidManifest.xml:13:9-43
 	android:name
 		ADDED from C:\Users\arthu\Desktop\Dell\Treinamento\Learning-Flutter\Projects\firstapp\dell_cep\android\app\src\main\AndroidManifest.xml:11:9-57
-activity#com.Busca.CEP.MainActivity
+activity#com.buscaCEP.MainActivity
 ADDED from C:\Users\arthu\Desktop\Dell\Treinamento\Learning-Flutter\Projects\firstapp\dell_cep\android\app\src\main\AndroidManifest.xml:14:9-42:20
 	android:launchMode
 		ADDED from C:\Users\arthu\Desktop\Dell\Treinamento\Learning-Flutter\Projects\firstapp\dell_cep\android\app\src\main\AndroidManifest.xml:16:13-43
