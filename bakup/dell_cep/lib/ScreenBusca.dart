@@ -10,13 +10,13 @@ class MyApp extends StatelessWidget {
       title: appTitle,
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        platform: TargetPlatform.iOS,
         visualDensity: VisualDensity.adaptivePlatformDensity,
-        primaryColor: Colors.teal,
+        primaryColor: Colors.green,
       ),
       home: Scaffold(
         appBar: AppBar(
           title: Text(appTitle),
+          centerTitle: true,
         ),
         body: MyCustomForm(),
       ),
@@ -97,7 +97,6 @@ class MyCustomFormState extends State<MyCustomForm> {
 
                 int diferenca = tamanhoCEP - 8;
 
-
                 if (value.isEmpty || cepFormatado.length != 8) {
                   if (value.isEmpty) {
                     return "CEP esta em branco";
@@ -114,9 +113,9 @@ class MyCustomFormState extends State<MyCustomForm> {
                 return null;
               },
             ),
-            Row(children: [
+            Row(mainAxisAlignment: MainAxisAlignment.center, children: [
               Padding(
-                padding: const EdgeInsets.symmetric(vertical: 20.0),
+                padding: const EdgeInsets.symmetric(vertical: 10.0),
                 child: FloatingActionButton(
                   heroTag: "Buscar",
                   tooltip: 'Buscar CEP',
