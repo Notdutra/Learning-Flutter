@@ -1,0 +1,6 @@
+fazer um programa que calcula porcento de tempo em um ano
+90% de dias em um ano
+90% de horas, minutos segundos
+
+
+Fazer um app de signos
