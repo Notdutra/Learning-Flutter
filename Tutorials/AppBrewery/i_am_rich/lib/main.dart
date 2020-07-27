@@ -8,6 +8,7 @@ void main() {
         backgroundColor: Colors.red[900],
         appBar: AppBar(
           title: Text("I Am Rich"),
+          centerTitle: true,
           backgroundColor: Colors.red[900],
         ),
         body: Center(
