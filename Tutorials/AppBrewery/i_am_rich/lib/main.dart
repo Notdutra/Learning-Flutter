@@ -12,6 +12,7 @@ void main() {
         ),
         body: Center(
           child: Image(),
+        ),
       ),
     ),
   );
