@@ -4,8 +4,10 @@ void main() {
   runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Center(
-        child: Text('Hello World'),
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text("I Am Rich"),
+        ),
       ),
     ),
   );
