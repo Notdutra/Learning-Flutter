@@ -11,7 +11,9 @@ void main() {
           backgroundColor: Colors.red[900],
         ),
         body: Center(
-          child: Image(),
+          child: Image(
+            image: AssetImage('images/diamond.png'),
+          ),
         ),
       ),
     ),
